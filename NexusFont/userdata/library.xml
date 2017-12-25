@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+  <groups>
+    <group name="サンプル・グループ" expanded="true">
+      <folder>C:\Program Files\NexusFont\Fonts</folder>
+    </group>
+  </groups>
+  <sets>
+    <set name="サンプル・セット"/>
+  </sets>
+</library>
